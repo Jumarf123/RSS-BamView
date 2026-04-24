@@ -55,7 +55,6 @@
   * `E:\...`
   * и другие доступные диски
 * Проверка файлов через YARA-X
-* Отображение названий YARA-правил при детекте
 * Проверка цифровой подписи файла
 * Фильтры:
 
@@ -72,10 +71,7 @@
   * Sysmon
   * PowerShell logging
   * следы очистки журналов
-* Интерфейс RU + EN с автоматическим выбором языка системы
 * Масштабирование интерфейса через `Ctrl +`, `Ctrl -`, `Ctrl + Mouse Wheel`
-* Запуск от имени администратора через встроенный manifest
-* Без отдельного консольного окна
 
 ---
 
@@ -157,11 +153,7 @@ The tool displays records in a convenient table, normalizes paths such as `\Devi
   * Sysmon
   * PowerShell logging
   * event log clearing traces
-* RU + EN UI with automatic system language detection
 * UI zoom via `Ctrl +`, `Ctrl -`, `Ctrl + Mouse Wheel`
-* Built-in administrator manifest
-* No separate console window
-
 ---
 
 ### Quick start
